@@ -1,10 +1,10 @@
 ## Deevo87
 
 Just a computer science guy trying his best in the job market. My name is Rafał, and here are some things I’m passionate about:
-* 🖧 Network programming
-* 🌐 Web development with React on the frontend and Spring Boot on the backend
-* 💡 Experimenting with new programming ideas and concepts
-* 🚀 Starting exciting projects (usually they take longer than planned 💀)
+*  Network programming
+*  Web development with React on the frontend and Spring Boot on the backend
+*  Experimenting with new programming ideas and concepts
+*  Starting exciting projects (usually they take longer than planned 💀)
 
 What I’m not interested in is unnecessarily overcomplicated code and the mindset behind it. That’s why I always strive to make things as simple as possible while ensuring they are as efficient as they need to be.
 
