@@ -1,16 +1,17 @@
-## Hi there 👋
+## Deevo87
 
-<!--
-**Deevo87/Deevo87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Just a computer science guy trying his best in the job market. My name is Rafał, and here are some things I’m passionate about:
+* 🖧 Network programming and server management
+* 🌐 Web development with React on the frontend and Spring Boot on the backend
+* 💡 Experimenting with new programming ideas and concepts
+* 🚀 Starting exciting projects (usually they take longer than planned 💀)
 
-Here are some ideas to get you started:
+What I’m not interested in is unnecessarily overcomplicated code and the mindset behind it. That’s why I always strive to make things as simple as possible while ensuring they are as efficient as they need to be.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My favourite tech stacks:
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" alt="Golang" width="30"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="30">
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="30">
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30">
+<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="Spring" width="30">
+
